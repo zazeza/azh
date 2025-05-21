@@ -1,2 +1,2 @@
-#indluce stdio.h
+#include stdio.h
 
