@@ -1,1 +1,2 @@
+#indluce stdio.h
 
